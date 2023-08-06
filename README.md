@@ -34,6 +34,8 @@ This task 2 focuses on converting audio recordings into text using JavaScript. I
 - Language Selection: By default, the Web Speech API uses the language set in the user's browser. You can modify the code to specify a different language for speech recognition.
 - Styling: Modify the provided CSS code in index.html to customize the appearance of the webpage.
 - Error Handling: You can enhance the JavaScript code to handle errors and display appropriate messages to the user in case of any issues during the speech-to-text conversion.
+### Example
+<img width="960" alt="image" src="https://github.com/NZ199/Programming-sites-and-processing-natural-sites/assets/95175322/cdc1b28c-41a8-4fb7-ba45-73e4cc76f0a6">
 
 
 
